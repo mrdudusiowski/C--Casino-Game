@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1527972402 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Gra.h"
+	"BlackJack.h"
+	"JednorekiBandyta.h"
+	"Ruletka.h"
+
+1527106245 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\src\gracz.cpp
+	"Gracz.h"
+
+1527107763 e:\studia\programowanie\programowanie c++\kasyno\kasyno\include\gracz.h
+	<string>
+	<iostream>
+	<fstream>
+
+1527972356 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\src\gra.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"Gra.h"
+
+1527972073 e:\studia\programowanie\programowanie c++\kasyno\kasyno\include\gra.h
+	<iostream>
+	<string>
+
+1527807460 e:\studia\programowanie\programowanie c++\kasyno\kasyno\menu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1527876724 e:\studia\programowanie\programowanie c++\kasyno\kasyno\include\blackjack.h
+	<iostream>
+	<string>
+	"Gra.h"
+
+1527877976 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\src\blackjack.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"BlackJack.h"
+
+1527881545 e:\studia\programowanie\programowanie c++\kasyno\kasyno\include\jednorekibandyta.h
+	<iostream>
+	<string>
+	"Gra.h"
+
+1527881194 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\src\jednorekibandyta.cpp
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"JednoRekiBandyta.h"
+
+1527965813 source:e:\studia\programowanie\programowanie c++\kasyno\kasyno\src\ruletka.cpp
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"Ruletka.h"
+
+1527965125 e:\studia\programowanie\programowanie c++\kasyno\kasyno\include\ruletka.h
+	<iostream>
+	<string>
+	"Gra.h"
+
